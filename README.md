@@ -117,7 +117,6 @@ The Excel dashboard presents the analysis visually through charts and KPIs.
 
 ## 📷 Dashboard Preview
 
-Add your dashboard screenshot below:
 <img width="1116" height="756" alt="DASHBOARD" src="https://github.com/user-attachments/assets/c166dcfe-9233-4015-8d0a-47991a8d5231" />
 
 
