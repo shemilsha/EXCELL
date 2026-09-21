@@ -186,6 +186,3 @@ BCA Graduate | Aspiring Data Analyst
 
 📍 Kerala, India
 
----
-
-⭐ **If you find this project useful, feel free to explore the repository.**
